@@ -13,7 +13,7 @@
     ![2015](https://github.com/hydnhntn/VBA_challenge/blob/main/images/ScriptResultSample_2015ws.jpg)
     ![2014](https://github.com/hydnhntn/VBA_challenge/blob/main/images/ScriptResultSample_2014ws.jpg)
 
-* Script [(vbs)](https://github.com/hydnhntn/VBA_challenge/blob/main/VBA_challenge.vbs) ![(bas)](https://github.com/hydnhntn/VBA_challenge/blob/main/VBA_challenge.bas)
+* Script [(vbs)](https://github.com/hydnhntn/VBA_challenge/blob/main/VBA_challenge.vbs) [(bas)](https://github.com/hydnhntn/VBA_challenge/blob/main/VBA_challenge.bas)
     * contains script for assignment
     * one sub () included
     * contains all functional requirements for assignment AND bonus assignment
